@@ -1,4 +1,5 @@
-# ridebike_box2d
+# Ridebike
+created with Box2d
 ----------------
 
 一个html5山地自行车demo，使用box2dweb和lufylegend.js开发。
